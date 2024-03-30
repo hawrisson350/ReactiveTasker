@@ -1,0 +1,57 @@
+.todoFormMainWrap{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.todoFormMainWrap label{
+    font-family: "PT Sans", sans-serif;
+    text-align: center;
+    font-size: 24px;
+    color: #303036;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.todoFormMainWrap textarea{
+    font-family: "PT Sans", sans-serif;
+    border: none;
+    background-color: #FFFFFE;
+    outline: none;
+    font-size: 20px;
+    border-radius: 15px; 
+    margin :20px;
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.formBtnWrap{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.formBtnWrap button{
+    border: 1px solid #303036;
+    font-size: 20px;
+    padding: 7px 15px;
+    font-family: "PT Sans", sans-serif;
+    font-size: 22px;
+    border-radius: 15px;
+    font-weight: bold;
+    color: #303036;
+    box-shadow: 0px 3px  0px rgba(0, 0, 0, 0.2);
+}
+
+.todoFormBtnCancel{
+    background-color: #FFFFFE;
+}
+
+.todoFormBtnAccept{
+    background-color: #FFD388;
+}

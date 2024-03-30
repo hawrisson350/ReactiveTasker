@@ -1,0 +1,23 @@
+.TodoSearchContainer{
+    padding: 15px;
+}
+
+.TodoSearchContainer .searchLabel{
+    float: left;
+    width: 30px;
+    height: 100%;
+    background-color: #FFFFFE;
+    border-radius: 15px 0 0 15px;
+    padding: 6px;
+}
+
+.TodoSearchContainer .textInput{
+    float: left;
+    border-radius: 0 15px 15px 0;
+    border: none;
+    outline: 0;
+    font-size: 20px;
+    padding: 7px 5px;
+    background-color: #FFFFFE;
+    width: calc(100% - 30px);
+}

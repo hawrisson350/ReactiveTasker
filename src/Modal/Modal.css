@@ -1,0 +1,33 @@
+.modalWrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.modalWrap{
+    width: 100%;
+    background-color: #288D8D;
+    border-radius: 15px 15px 0 0;
+    color: #303036;
+    position: relative;
+    padding: 15px;
+    border: 1px solid #303036;
+}
+
+.modalCloseBtn{
+    border-radius: 15px;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    cursor: pointer;
+    color: #303036;
+}

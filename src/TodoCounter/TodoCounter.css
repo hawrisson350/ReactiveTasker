@@ -1,0 +1,26 @@
+.todoCounterWrap{
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.todoCounterWrap h1 {
+    font-size: 25px;
+    text-align: left;
+    margin: 0;
+    color:white;
+}
+
+.todoCounterWrap h2 {
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    color:#FED287;
+}
+
+.todoCounterWrap h3 {
+    font-size: 17px;
+    text-align: left;
+    margin: 0;
+    color:#B1F3DE;
+    font-weight: normal;
+}
