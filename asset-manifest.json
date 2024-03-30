@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactiveTasker/static/css/main.ddc6e233.css",
+    "main.js": "/ReactiveTasker/static/js/main.6976da44.js",
+    "index.html": "/ReactiveTasker/index.html",
+    "main.ddc6e233.css.map": "/ReactiveTasker/static/css/main.ddc6e233.css.map",
+    "main.6976da44.js.map": "/ReactiveTasker/static/js/main.6976da44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc6e233.css",
+    "static/js/main.6976da44.js"
+  ]
+}
